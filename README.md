@@ -1,4 +1,4 @@
-# infoon
+# infoon (wip)
 
 Instant ommand line info.
 
