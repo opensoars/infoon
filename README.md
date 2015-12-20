@@ -1,6 +1,6 @@
 # infoon (wip)
 
-Instant ommand line info.
+Instant command line info.
 
 [![Build Status](https://travis-ci.org/opensoars/infoon.svg)](https://travis-ci.org/opensoars/infoon)
 [![Coverage Status](https://coveralls.io/repos/opensoars/infoon/badge.svg?branch=master&service=github)](https://coveralls.io/github/opensoars/infoon?branch=master)
